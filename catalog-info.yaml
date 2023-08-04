@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "my-kubernetes-component"
   annotations:
-    github.com/project-slug: josephca/my-kubernetes-component
+    github.com/project-slug: janus-idp/backstage-showcase
     backstage.io/kubernetes-id: "my-kubernetes-component"
     argocd/app-name: "my-kubernetes-component"
     backstage.io/techdocs-ref: dir:.
